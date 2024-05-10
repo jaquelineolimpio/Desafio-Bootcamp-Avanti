@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
 
 # Desafio-Bootcamp-Avanti
  
@@ -11,9 +11,9 @@
 ✓ Criar uma documentação do passo a passo com evidências do processo.
  
 
-# Tecnologias utilizadas:
 
-<i class="fab fa-terraform"></i>
+
+
 
 
 
