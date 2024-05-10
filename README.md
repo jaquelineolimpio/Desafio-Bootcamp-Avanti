@@ -2,7 +2,7 @@
 
 # Desafio-Bootcamp-Avanti
  
-# Requisitos do desafio:
+Requisitos do desafio:
  
 ✓ Criar uma infraestrutura com o Terraform na AWS;
  
