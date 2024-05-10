@@ -1,7 +1,4 @@
 # Desafio-Bootcamp-Avanti
-
-![print](https://github.com/ThaisRivarolli/projeto-encriptador/assets/94804477/3767541a-9236-4d68-a541-d19144057588)
- 
  
 # Requisitos do desafio:
  
