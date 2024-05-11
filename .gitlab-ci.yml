@@ -1,0 +1,9 @@
+stages:
+  - first_stage
+
+publica_site: 
+  stage: first_stage
+  tags: 
+    - AWS
+  script:
+    - cp app/* -R /var/www/html
